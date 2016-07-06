@@ -2,12 +2,13 @@ name: ImagoInk
 favicon: null
 layout_spectrum: 0.2162566080223769
 typography_spectrum: 0.9733507330529392
+title: Libros personalizados
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-2839903-27
   facebook: null
   twitter: null
 opengraph:
