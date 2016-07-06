@@ -1,6 +1,6 @@
 name: ImagoInk
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.22579
 typography_spectrum: 0.49217
 title: Libros personalizados
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f14933'
     - '#39363d'
     - '#edce41'
-  brandStrength: 0.43188693071715534
-  lightness: 0.6875
-  saturation: 0.4345938835758716
-  rhythmicContrast: 0.6191483419388533
+  brandStrength: 0.8125
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
